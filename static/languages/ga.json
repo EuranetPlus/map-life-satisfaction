@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An bhfuil Eorpaigh sásta lena saol i gcoitinne?",
+  "subtitle": "Tá formhór na nEorpach sách sásta lena saol, go háirithe na hOstaire, na hÍsiltíre agus na Danmhairge, ach tá roinnt tíortha ag déanamh níos measa...",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Foinse: Suirbhé leictreonach Maireachtáil agus Obair san AE, Earrach 2024. \nAr scála ó 1-10.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "An Fondúireacht Eorpach chun Dálaí Maireachtála agus Oibre a Fheabhsú",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
