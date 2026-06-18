@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jsou Evropané obecně spokojeni se svými životy?",
+  "subtitle": "Většina Evropanů je se svými životy celkem spokojená, zejména Rakušané, Nizozemci a Dánové, ale některé země si vedou hůř...",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Zdroj: Elektronický průzkum Život a práce v EU, jaro 2024. \nNa stupnici od 1 do 10.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Evropská nadace pro zlepšení životních a pracovních podmínek",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
