@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Ovatko eurooppalaiset yleisesti ottaen tyytyväisiä elämäänsä?",
+  "subtitle": "Useimmat eurooppalaiset ovat melko tyytyväisiä elämäänsä, erityisesti itävaltalaiset, hollantilaiset ja tanskalaiset, mutta joissakin maissa menee huonommin...",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Lähde: EU:ssa asumista ja työskentelyä koskeva sähköinen kysely, kevät 2024.\n\nAsteikolla 1–10.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan elin- ja työolojen kehittämissäätiö",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
