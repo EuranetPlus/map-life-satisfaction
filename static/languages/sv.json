@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Är européer generellt sett nöjda med sina liv?",
+  "subtitle": "De flesta européer är ganska nöjda med sina liv, särskilt österrikare, holländare och danskar, men vissa länder klarar sig sämre...",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Källa: E-undersökningen Leva och arbeta i EU, våren 2024.\nPå en skala från 1–10.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Europeiska fonden för förbättring av levnads- och arbetsvillkor",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
