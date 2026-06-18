@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Zijn Europeanen over het algemeen tevreden met hun leven?",
+  "subtitle": "De meeste Europeanen zijn redelijk tevreden met hun leven, vooral Oostenrijkers, Nederlanders en Denen, maar in sommige landen gaat het slechter...",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Bron: Online enquête 'Wonen en werken in de EU', voorjaar 2024.\nOp een schaal van 1 tot 10.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europese Stichting voor de Verbetering van Leef- en Arbeidsomstandigheden",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
