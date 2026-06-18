@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Jesu li Europljani općenito zadovoljni svojim životima?",
+  "subtitle": "Većina Europljana je prilično zadovoljna svojim životima, posebno Austrijanci, Nizozemci i Danci, ali neke zemlje stoje gore...",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Izvor: E-anketa Život i rad u EU, proljeće 2024. \nNa ljestvici od 1 do 10.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska zaklada za poboljšanje životnih i radnih uvjeta",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
