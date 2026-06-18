@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Están los europeos, en general, satisfechos con sus vidas?",
+  "subtitle": "La mayoría de los europeos están bastante satisfechos con sus vidas, especialmente los austriacos, holandeses y daneses, pero en algunos países la situación es peor...",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Fuente: Encuesta electrónica sobre vivir y trabajar en la UE, primavera de 2024. En una escala del 1 al 10.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Fundación Europea para la Mejora de las Condiciones de Vida y de Trabajo",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
