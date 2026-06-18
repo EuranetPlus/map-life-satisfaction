@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy Europejczycy są generalnie zadowoleni ze swojego życia?",
+  "subtitle": "Większość Europejczyków jest zadowolona ze swojego życia, zwłaszcza Austriacy, Holendrzy i Duńczycy, ale w niektórych krajach sytuacja wygląda gorzej...",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Źródło: Ankieta elektroniczna „Życie i praca w UE”, wiosna 2024 r.\nW skali od 1 do 10.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Fundacja na rzecz Poprawy Warunków Życia i Pracy",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
