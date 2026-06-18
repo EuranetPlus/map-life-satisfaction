@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "L-Ewropej ġeneralment huma sodisfatti b'ħajjithom?",
+  "subtitle": "Il-biċċa l-kbira tal-Ewropej huma pjuttost kuntenti b’ħajjithom, speċjalment l-Awstrijaċi, l-Olandiżi u d-Daniżi, iżda xi pajjiżi sejrin agħar...",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Sors: Stħarriġ elettroniku dwar l-Għajxien u x-Xogħol fl-UE, Rebbiegħa 2024.\nFuq skala minn 1-10.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "Fondazzjoni Ewropea għat-Titjib tal-Kundizzjonijiet tal-Ħajja u tax-Xogħol",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
